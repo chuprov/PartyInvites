@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PartyInvites", "PartyInvite
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LanguageFeatures", "LanguageFeatures\LanguageFeatures.csproj", "{A1B27A35-0AFA-4442-A62F-779FC9CBF4D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Razor", "Razor\Razor.csproj", "{C850DD25-58B8-4CD8-A43D-C856F55F4228}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Razor", "Razor\Razor.csproj", "{C850DD25-58B8-4CD8-A43D-C856F55F4228}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithVS", "WorkingWithVS\WorkingWithVS.csproj", "{A433DE1C-B711-4C65-A5EE-DBB50C5124B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{C850DD25-58B8-4CD8-A43D-C856F55F4228}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C850DD25-58B8-4CD8-A43D-C856F55F4228}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C850DD25-58B8-4CD8-A43D-C856F55F4228}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A433DE1C-B711-4C65-A5EE-DBB50C5124B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A433DE1C-B711-4C65-A5EE-DBB50C5124B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A433DE1C-B711-4C65-A5EE-DBB50C5124B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A433DE1C-B711-4C65-A5EE-DBB50C5124B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
